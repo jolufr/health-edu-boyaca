@@ -41,6 +41,7 @@ Los archivos fueron descargados manualmente y ubicados en la carpeta data/, con 
 
 ## Estructura del repositorio
 
+
 ```text
 health_education_data/
 ├── data/                                     # Carpeta con los datos del proyecto
@@ -87,21 +88,15 @@ cd health-education-data
 
 
 ### 3. Crear entorno virtual (opcional pero recomendado)
-\`\`\`bash
 python -m venv venv
 source venv/bin/activate   # En Linux/Mac
 venv\\Scripts\\activate      # En Windows
-\`\`\`
 
 ### 4. Instalar dependencias
-\`\`\`bash
 pip install -r requirements.txt
-\`\`\`
 
 ### 5. Ejecutar el proyecto
-\`\`\`bash
 python main.py
-\`\`\`
 
 ---
 
