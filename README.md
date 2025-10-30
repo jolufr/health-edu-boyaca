@@ -41,7 +41,6 @@ Los archivos fueron descargados manualmente y ubicados en la carpeta data/, con 
 
 ## Estructura del repositorio
 
-
 ```text
 health_education_data/
 ├── data/                                     # Carpeta con los datos del proyecto
