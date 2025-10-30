@@ -136,9 +136,15 @@ El archivo .pbix será añadido en la carpeta `/dashboard/` una vez esté desarr
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 **José Luis Fernández Rubiano**  
 Científico de Datos
+
+---
+
+## Créditos y reconocimiento
+Este proyecto nació como una colaboración con **Janeth Aguillon** en el Bootcamp de IA.
+Hoy comparto una versión mejorada, desarrollada de forma independiente, con nuevas funcionalidades y análisis.
 
 ---
 
