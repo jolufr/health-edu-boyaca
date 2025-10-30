@@ -82,10 +82,9 @@ https://www.datos.gov.co/Salud-y-Protecci-n-Social/Afiliaci-n-al-Sistema-General
 
 
 ### 2. Clonar el repositorio
-\`\`\`bash
 git clone https://github.com/jolufr/health-education-data.git
 cd health-education-data
-\`\`\`
+
 
 ### 3. Crear entorno virtual (opcional pero recomendado)
 \`\`\`bash
