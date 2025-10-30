@@ -1,0 +1,21 @@
+# =============================
+# 📁 ARCHIVOS A IGNORAR EN GIT
+# =============================
+
+# Sistema / IDE
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.env
+venv/
+env/
+ENV/
+
+# Excluir archivo demasiado grande
+data/Afiliaciones.csv
