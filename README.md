@@ -1,4 +1,4 @@
-# health_education_data - Análisis de datos públicos de salud y educación en Boyacá, Colombia
+# Análisis de datos públicos de salud y educación en Boyacá, Colombia
 
 ## Descripción del proyecto
 Este proyecto tiene como objetivo buscar correlaciones de la cobertura de salud y educación en zonas rurales de difícil acceso en el departamento de Boyacá. Esto con el fin de poder identificar zonas vulnerables y proponer planes de acción que permitan mejorar la calidad de vida de los habitantes de las zonas identificadas.
