@@ -107,7 +107,7 @@ python main.py
     - **Centros poblados**: 1845 registros.
     - **Instituciones educativas**: 1685 registros.
 - **Correlaciones encontradas**: no se halló correlación en la cobertura del sistema de salud con y la cobertura de educación.
-- **Segmentos identificados mediante clustering**: 4 grupos diferenciados por acceso a servicios de salud y cobertura educativa.
+- **Segmentos identificados mediante clustering**: 4 grupos diferenciados por acceso a servicios de salud y cobertura educativa. El grupo 0 es quien presenta mayor población en ruralidad y menor cobertura de educación en el departamento.
 - **Modelo predictivo aplicado**: Regresión lineal con un R² de 0.94 para estimar población y un R² de 0.71 para estimar la cobertura del sistema de salud. 
 
 El análisis evidencia retos estructurales en desarrollo rural, conectividad y acceso a servicios básicos. Para impulsar el crecimiento sostenible del departamento, se identifican las siguientes oportunidades:
@@ -126,10 +126,11 @@ Estas estrategias podrían mejorar la calidad de vida, generar empleo formal y d
 El dashboard mostrará:
 
 - Población total por municipio
-- Niveles de cobertura por municipio.
-- Comparativo rural vs urbano.
-- Municipios y cobertura de salud y educación.
-- Veredas y cobertura de salud y educación.
+- Población total en ruralidad.
+- Mujeres afiliadas al sistema de salud.
+- Cobertura del sistema de salud por municipio.
+- Cobertura del regimen subsidiado de salud por municipio.
+- Promedio de instituciones educaticas por vereda.
 
 El archivo .pbix será añadido en la carpeta `/dashboard/` una vez esté desarrollado.
 
